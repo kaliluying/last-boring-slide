@@ -1,0 +1,144 @@
+{
+  "fonts": {
+    "GeistMono-latin.woff2": {
+      "file": "assets/fonts/GeistMono-latin.woff2",
+      "bytes": 31288,
+      "mime": "font/woff2",
+      "sha256": "b7ac144b394cbd81052d6397ec0c33397977b1d7e9bc095e744e652a378c6fb3"
+    },
+    "Newsreader-italic.woff2": {
+      "file": "assets/fonts/Newsreader-italic.woff2",
+      "bytes": 42868,
+      "mime": "font/woff2",
+      "sha256": "8fda360fe26b551b52c9f2b5049f72941ae1582cb76ead9894287bf409efcce7"
+    },
+    "Newsreader-roman.woff2": {
+      "file": "assets/fonts/Newsreader-roman.woff2",
+      "bytes": 37932,
+      "mime": "font/woff2",
+      "sha256": "70f02c872ad97237598dc0438efc8fed638fe0afdfbc52f883a275f9049bacf4"
+    },
+    "anton.woff": {
+      "file": "assets/fonts/anton.woff",
+      "bytes": 24436,
+      "mime": "font/woff",
+      "sha256": "9238a59c28400b73bc65b8ae8e87123c3edf0e31903e7ada6a4f06d1c43bfbdc"
+    },
+    "geist-latin.woff2": {
+      "file": "assets/fonts/geist-latin.woff2",
+      "bytes": 29288,
+      "mime": "font/woff2",
+      "sha256": "9b6f5ff45b278c744b5f379a2c4ecbaf858a842b8eaf82ac8d21b699ca16c608"
+    },
+    "jbmono700.woff": {
+      "file": "assets/fonts/jbmono700.woff",
+      "bytes": 29028,
+      "mime": "font/woff",
+      "sha256": "7e8ef62b6a98e2cfb7e7f396fbddebf903046d97cad66f05a3ace5eb4fe66a9b"
+    },
+    "pixel.woff": {
+      "file": "assets/fonts/pixel.woff",
+      "bytes": 21880,
+      "mime": "font/woff",
+      "sha256": "82c1cefbcde154ab2692d6c764718f47468ac1002ac2dcc90d24491f6b7eda1b"
+    },
+    "unb300.woff": {
+      "file": "assets/fonts/unb300.woff",
+      "bytes": 32492,
+      "mime": "font/woff",
+      "sha256": "2a29ccf51d507f47a44b5cb6a74db069a0b8d22cc5edee78b6f68faed4bb8392"
+    },
+    "unb800.woff": {
+      "file": "assets/fonts/unb800.woff",
+      "bytes": 36040,
+      "mime": "font/woff",
+      "sha256": "36276abfec1c3d9265fea458dc4d3c36b802a76db52d174dc22f39898b69ba09"
+    }
+  },
+  "images": {
+    "selectall-earth.jpg": {
+      "file": "assets/img/selectall-earth.jpg",
+      "bytes": 1007198,
+      "mime": "image/jpeg",
+      "sha256": "a143af28062999c07f4d2a2fdddf52b3a3999b0bc34997e8f2398f1c03a12a9f"
+    },
+    "thumb-aim.jpg": {
+      "file": "assets/img/thumb-aim.jpg",
+      "bytes": 53976,
+      "mime": "image/jpeg",
+      "sha256": "8b5749831aa55c05c914df0301741449d47082344999ce613e42f6a4f5b61afe"
+    },
+    "thumb-boat.jpg": {
+      "file": "assets/img/thumb-boat.jpg",
+      "bytes": 69473,
+      "mime": "image/jpeg",
+      "sha256": "2d267206799525bb76134e97b2333e6065f7436ed8e64501122e4c68aee4d9d4"
+    },
+    "thumb-calendar.jpg": {
+      "file": "assets/img/thumb-calendar.jpg",
+      "bytes": 78362,
+      "mime": "image/jpeg",
+      "sha256": "ee1ad26177c933641e90c3ad16162c35c9e5fc13664d053b2fd7ccaeabbcafd2"
+    },
+    "thumb-dominoes.jpg": {
+      "file": "assets/img/thumb-dominoes.jpg",
+      "bytes": 33702,
+      "mime": "image/jpeg",
+      "sha256": "317a620ad0751421f8ef4de0ea7ddc760d89fad8a1451b2b5108287106106a50"
+    },
+    "thumb-futures.jpg": {
+      "file": "assets/img/thumb-futures.jpg",
+      "bytes": 89417,
+      "mime": "image/jpeg",
+      "sha256": "8ec58126ee957f71cd2d83d7cf82550144dec31140454cde566e2d4d8c4eae20"
+    },
+    "thumb-lamp.jpg": {
+      "file": "assets/img/thumb-lamp.jpg",
+      "bytes": 64637,
+      "mime": "image/jpeg",
+      "sha256": "be1dde76f1c1e952828dae4820a84216bb7269e955ae5783f26a153f7a7eda8b"
+    },
+    "thumb-loop.jpg": {
+      "file": "assets/img/thumb-loop.jpg",
+      "bytes": 73288,
+      "mime": "image/jpeg",
+      "sha256": "ebb6375c439fad5826585f57017a265373bb610ec5ad290bb685f51c13ff0959"
+    },
+    "thumb-office.jpg": {
+      "file": "assets/img/thumb-office.jpg",
+      "bytes": 17255,
+      "mime": "image/jpeg",
+      "sha256": "7d52033f332b9e821d33389989b5de2940f89d4573982cdc9d39b7d3ba08733b"
+    },
+    "thumb-pile.jpg": {
+      "file": "assets/img/thumb-pile.jpg",
+      "bytes": 38579,
+      "mime": "image/jpeg",
+      "sha256": "195b03b3eef9a5b1001f730cacf4ff1c5a9b905f1d134e947a8018ccf8826fb9"
+    },
+    "thumb-questions.jpg": {
+      "file": "assets/img/thumb-questions.jpg",
+      "bytes": 8526,
+      "mime": "image/jpeg",
+      "sha256": "c188fa8279dc9711afe5ba2a6fdc87862df94a6cf0b0acfb47afbcb5dad63728"
+    },
+    "thumb-selectall.jpg": {
+      "file": "assets/img/thumb-selectall.jpg",
+      "bytes": 52869,
+      "mime": "image/jpeg",
+      "sha256": "5e28a32d5618b06b29edc107526eb3b5126332f5203a9539706f7c3151947bfd"
+    },
+    "thumb-swarm.jpg": {
+      "file": "assets/img/thumb-swarm.jpg",
+      "bytes": 79089,
+      "mime": "image/jpeg",
+      "sha256": "28d3b3cf432c8d6f1ddd26763477921d7f4e3bbfbf0a844137181234ee2e3da0"
+    },
+    "thumb-tower.jpg": {
+      "file": "assets/img/thumb-tower.jpg",
+      "bytes": 23141,
+      "mime": "image/jpeg",
+      "sha256": "32141269c23c73123de6c0c9330b3da4a3468b4abcb3631cda54d951630e1b9c"
+    }
+  }
+}

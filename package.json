@@ -1,0 +1,17 @@
+{
+  "name": "last-boring-slide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Last Boring Slide — deobfuscated source and reproducible build of a Claude artifact",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "verify": "node verify.mjs",
+    "aliases": "node tools/aliases.mjs",
+    "extract": "node tools/extract.mjs && npx prettier --write src/deck/*.js && node tools/aliases.mjs",
+    "record": "node tools/record-mp4.mjs"
+  },
+  "devDependencies": {
+    "prettier": "3.10.1"
+  }
+}

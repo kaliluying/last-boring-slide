@@ -1,0 +1,4 @@
+# 179 MB 录屏，超出 GitHub 单文件 100 MB 限制；用 npm run record 重新生成
+last-boring-slide-zh.mp4
+node_modules/
+.DS_Store
